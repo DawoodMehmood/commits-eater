@@ -5,13 +5,13 @@ This mini Github workflow will grab your contribution graph and generate this in
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="example/github-contribution-grid-snake.svg"
+    srcset="example/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="example/github-contribution-grid-snake-dark.svg"
+    srcset="example/github-contribution-grid-snake.svg"
   />
-  <img alt="Snake Game" src="example/github-contribution-grid-snake.svg" />
+  <img alt="Snake Game" src="images/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 1. Copy the Workflow
